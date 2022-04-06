@@ -1,5 +1,5 @@
 # 🚖 Taxi service 🚕
-"Taxi Service" is a web application based on the knowledge of Java Core, JDBC, MySQL and Web technologies.
+Taxi Service is a simple web application for taxi drivers that shows information about drivers and their cars. This project was built with JDBC and Java Servlet API to better understanding what's in popular frameworks going on under the hood.
 ____
 ## General info 
 This project allows you to do main CRUD operations, create, authenticate and authorize a new driver, add car and manufacturer to the Data Base.
